@@ -1,0 +1,55 @@
+*{
+    font-family: 'Lato';
+    font-size: 1rem;
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    display: flex;
+    justify-content: center;
+    background-color: #F2F5F9;
+}
+body{
+    border-radius: 15px;
+    background-color: #ffffff;
+    width: 420px;
+}
+main{
+    padding: 32px;
+    padding-top: 0px;
+    border-bottom: solid 1px #F2F5F9;
+}
+.overlay{
+    position: relative;
+    bottom: 70px;
+}
+.foto{
+    border-radius: 15px;
+}
+header{
+    height: 280px;
+}
+h1{
+    font-size: 1.5rem;
+    color: #111729;
+    font-weight: 600;
+}
+p{
+    color: #4A5567;
+    padding-top: 16px;
+}
+footer{
+    display: flex;
+    padding: 32px;
+}
+footer img{
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    margin-right: 16px;
+}
+h4{
+    color:#4A5567;
+    font-size: 0.825rem;
+}
